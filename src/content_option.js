@@ -71,7 +71,7 @@ const services = [
 
 
 const dataportfolio = [{
-  img: "",
+  img: "https://github.com/IVIonsters/react-portfolio/blob/master/src/assets/images/inspiresire.png?raw=true",
   description: "The wisdom of life consists in the elimination of non-essentials.",
   link: "#",
 },
