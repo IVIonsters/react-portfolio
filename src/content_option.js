@@ -70,7 +70,7 @@ const services = [
 
 
 const dataportfolio = [{
-  img: "https://picsum.photos/400/?grayscale",
+  img: "https://github.com/IVIonsters/react-portfolio/blob/master/src/assets/images/zozzled.png?raw=true",
   description: "Zozzled - A social drinking app",
   link: "https://github.com/IVIonsters/Zozzled",
 },
