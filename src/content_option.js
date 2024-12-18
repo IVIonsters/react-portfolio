@@ -75,28 +75,28 @@ const dataportfolio = [{
   link: "https://github.com/IVIonsters/Zozzled",
 },
 {
-  img: "https://picsum.photos/400/800/?grayscale",
-  description: "IntelliQuest - Reignite Edition",
+  img: "https://github.com/IVIonsters/react-portfolio/blob/master/src/assets/images/test1.png?raw=true",
+  description: "IntelliQuest - Reignite Edition - Developer Tools for the Modern Web",
   link: "https://github.com/IVIonsters/IntelliQuest-Reignite",
 },
 {
-  img: "https://picsum.photos/400/?grayscale",
+  img: "https://github.com/IVIonsters/react-portfolio/blob/master/src/assets/images/intelliquestLegacy.png?raw=true",
   description: "IntelliQuest - Legacy Edition",
   link: "https://github.com/IVIonsters/IntelliQuest",
 },
 {
-  img: "https://picsum.photos/400/600/?grayscale",
+  img: "https://github.com/IVIonsters/Trippera/blob/main/images/iPhone-15.png?raw=true",
   description: "Triperra - A travel planning app",
   link: "https://github.com/IVIonsters/Trippera",
 },
 {
-  img: "https://picsum.photos/400/300/?grayscale",
-  description: "Private Eye - A privacy-focused browser extension",
+  img: "https://github.com/IVIonsters/Private-Eye/blob/main/assets/final.png?raw=true",
+  description: "Private Eye - Employee Tracker designed with postgreSQL",
   link: "https://github.com/IVIonsters/Private-Eye",
 },
 {
-  img: "https://picsum.photos/400/700/?grayscale",
-  description: "Link Vault - A lead management system",
+  img: "https://github.com/IVIonsters/Lead-Vault/blob/main/images/iPhone-13-PRO-127.0.0.1.png?raw=true",
+  description: "Link Vault - A url quick save app",
   link: "https://github.com/IVIonsters/Lead-Vault",
 },
 
