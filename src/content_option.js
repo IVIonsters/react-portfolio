@@ -95,9 +95,9 @@ const dataportfolio = [{
   link: "https://github.com/IVIonsters/Private-Eye",
 },
 {
-  img: "https://picsum.photos/400/700/?grayscale",
+  img: "https://github.com/IVIonsters/VendiQ/blob/main/readmeImages/iPhone-16-PRO-MAX-localhost.png?raw=true",
   description: "VendiQ - A e-commerce platform",
-  link: "https://github.com/IVIonsters/VendiQ/blob/main/readmeImages/iPhone-16-PRO-MAX-localhost.png?raw=true",
+  link: "https://github.com/IVIonsters/VendiQ",
 },
 
 ];
