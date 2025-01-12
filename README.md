@@ -33,9 +33,9 @@ Here are some of the projects I've worked on:
 | :---------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 |              [**IntelliQuest - Legacy Edition**](https://github.com/IVIonsters/IntelliQuest)<br>Legacy Developer Tools              |       [**Triperra**](https://github.com/IVIonsters/Trippera)<br>A travel planning app       |
 
-|       ![Private Eye](https://github.com/IVIonsters/Private-Eye/blob/main/assets/final.png?raw=true)       | ![Link Vault](https://github.com/IVIonsters/Lead-Vault/blob/main/images/iPhone-13-PRO-127.0.0.1.png?raw=true) |
-| :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| [**Private Eye**](https://github.com/IVIonsters/Private-Eye)<br>An employee tracker built with PostgreSQL |              [**Link Vault**](https://github.com/IVIonsters/Lead-Vault)<br>A URL quick save app               |
+|       ![Private Eye](https://github.com/IVIonsters/Private-Eye/blob/main/assets/final.png?raw=true)       | ![VendiQ](https://github.com/IVIonsters/VendiQ/blob/main/readmeImages/iPhone-16-PRO-MAX-localhost.png?raw=true) |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| [**Private Eye**](https://github.com/IVIonsters/Private-Eye)<br>An employee tracker built with PostgreSQL |                  [**VendiQ**](https://github.com/IVIonsters/VendiQ)<br>An E-commerce Platform                   |
 
 </div>
 

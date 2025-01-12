@@ -95,9 +95,9 @@ const dataportfolio = [{
   link: "https://github.com/IVIonsters/Private-Eye",
 },
 {
-  img: "https://github.com/IVIonsters/Lead-Vault/blob/main/images/iPhone-13-PRO-127.0.0.1.png?raw=true",
-  description: "Link Vault - A url quick save app",
-  link: "https://github.com/IVIonsters/Lead-Vault",
+  img: "https://picsum.photos/400/700/?grayscale",
+  description: "VendiQ - A e-commerce platform",
+  link: "https://github.com/IVIonsters/VendiQ/blob/main/readmeImages/iPhone-16-PRO-MAX-localhost.png?raw=true",
 },
 
 ];
